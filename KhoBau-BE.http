@@ -1,0 +1,6 @@
+@KhoBau_BE_HostAddress = http://localhost:5098
+
+GET {{KhoBau_BE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
